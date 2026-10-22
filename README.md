@@ -1,5 +1,9 @@
 # niliu-injection-engine (skill)
 
+> **Merged into the main repository.** The skill now lives at
+> https://github.com/Skyburgerking/niliu/tree/master/skill — install from there.
+> This repository is archived and no longer updated.
+
 An **Agent Skill** for driving [niliu](https://github.com/Skyburgerking/niliu) — a binary-patching
 engine for single-player games — from an LLM agent.
 

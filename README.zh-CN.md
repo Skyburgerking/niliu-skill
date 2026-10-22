@@ -1,5 +1,8 @@
 # niliu-injection-engine（技能）
 
+> **已合并进主仓库。** 技能现在在 https://github.com/Skyburgerking/niliu/tree/master/skill ，请从那里安装。
+> 本仓库已归档，不再更新。
+
 给 LLM 代理用的 **Agent Skill**，驱动 [niliu](https://github.com/Skyburgerking/niliu) —— 单机游戏
 二进制改值引擎。
 
